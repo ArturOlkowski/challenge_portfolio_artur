@@ -6,4 +6,5 @@ Na codzień pracuję jako tester manualny, interesuję się programowaniem. Moż
 by dla mnie idealnym połączeniem doświdczenia w roli testera i możliwości dalszego rozwoju w programowaniu. 
 
 # <h3> Podzadanie 4:  Zadanie dla chętnych. Nie samymi testami automatycznymi człowiek żyje.
-<img src="test.PNG">
+![test](https://github.com/ArturOlkowski/challenge_portfolio_artur/assets/89356916/9fdc7c50-9063-4cfe-a956-d117e6b06d43)
+
