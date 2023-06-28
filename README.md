@@ -5,3 +5,5 @@ a, że sesja zdana w pierwszym terminie i nauki mi mało, to trzeba było sobie 
 Na codzień pracuję jako tester manualny, interesuję się programowaniem. Możliwość pracy jako tester automatyzujący była 
 by dla mnie idealnym połączeniem doświdczenia w roli testera i możliwości dalszego rozwoju w programowaniu. 
 
+# <h3> Podzadanie 4:  Zadanie dla chętnych. Nie samymi testami automatycznymi człowiek żyje.
+# <img src="test">
