@@ -6,4 +6,4 @@ Na codzień pracuję jako tester manualny, interesuję się programowaniem. Moż
 by dla mnie idealnym połączeniem doświdczenia w roli testera i możliwości dalszego rozwoju w programowaniu. 
 
 # <h3> Podzadanie 4:  Zadanie dla chętnych. Nie samymi testami automatycznymi człowiek żyje.
-# <img src="test.PNG">
+<img src="test.PNG">
