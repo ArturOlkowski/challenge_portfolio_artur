@@ -7,7 +7,8 @@ by dla mnie idealnym połączeniem doświdczenia w roli testera i możliwości d
 
 # <h3> Podzadanie 4:  Zadanie dla chętnych. Nie samymi testami automatycznymi człowiek żyje.
 selektor
-![test.png](..%2F..%2F..%2FDesktop%2Ftest.png)
+
+![test](https://github.com/ArturOlkowski/challenge_portfolio_artur/assets/89356916/cf80ac54-648f-4f46-b2cd-e5c4dfffd529)
 
 
 # <h2> Zadanie 2: Selektory
@@ -33,6 +34,6 @@ selektor
 *password*
 - //*[@id="password"]
   
-![test](https://github.com/ArturOlkowski/challenge_portfolio_artur/assets/89356916/cf80ac54-648f-4f46-b2cd-e5c4dfffd529)
 
-main
+
+
