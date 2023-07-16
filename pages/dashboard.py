@@ -1,3 +1,4 @@
+import time
 from pages.base_page import BasePage
 
 
@@ -13,4 +14,9 @@ class Dashboard(BasePage):
     Scouts_panel_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[1]/div/div[2]/h2"
     Shortcuts_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[2]/div/div/h2"
     Activity_xpath = "//*[@id='__next']/div[1]/main/div[3]/div[3]/div/div/h2"
-    pass
+    expected_tile = "Scouts panel"
+    dashboard_url = "https://scouts-test.futbolkolektyw.pl/"
+
+    def title_of_page(self):
+        time.sleep(5)
+        assert self.get_page_title(self.dashboard_url) == self.expected_tile
